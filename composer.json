@@ -1,6 +1,6 @@
 {
-    "name": "nutgram/nutgram",
-    "description": "The Telegram bot library that doesn't drive you nuts",
+    "name": "novseje/nutgram",
+    "description": "nutgram/nutgram for php8.0 & guzzle6",
     "keywords": [
         "nutgram",
         "telegram",
@@ -10,7 +10,7 @@
         "framework",
         "laravel"
     ],
-    "homepage": "https://github.com/SergiX44/Nutgram",
+    "homepage": "https://github.com/novseje/nutgram",
     "license": "MIT",
     "authors": [
         {
